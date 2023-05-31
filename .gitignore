@@ -396,3 +396,4 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+/MM.MinimalApi/MM.MinimalApi.Contracts/appsettings.json
